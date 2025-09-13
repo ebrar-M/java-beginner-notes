@@ -1,3 +1,10 @@
+[![Stars](https://img.shields.io/github/stars/ebrar-M/java-beginner-notes?logo=github&label=Stars&style=flat)](https://github.com/ebrar-M/java-beginner-notes/stargazers)
+[![Forks](https://img.shields.io/github/forks/ebrar-M/java-beginner-notes?logo=github&label=Forks&style=flat)](https://github.com/ebrar-M/java-beginner-notes/network/members)
+![Last commit](https://img.shields.io/github/last-commit/ebrar-M/java-beginner-notes?label=last%20commit&style=flat)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white&style=flat)
+
+**---**
+
 
 ## 🌍 Languages
 - 🇹🇷 [Türkçe](#-tr-türkçe)
