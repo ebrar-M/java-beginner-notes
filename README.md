@@ -13,7 +13,7 @@
 
 ## 🇹🇷 TR Türkçe
 
-"# Java Notları Yeni Başlayanlar için ☕  
+# Java Notları Yeni Başlayanlar için ☕  
 
 **---**
 
